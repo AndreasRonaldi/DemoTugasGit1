@@ -1,1 +1,2 @@
 This is file 2
+And New Line on Text 2
